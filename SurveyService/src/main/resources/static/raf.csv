@@ -1,0 +1,404 @@
+Predmet,Tip,Nastavnik,Grupe,Dan,Termin,Ucionica,DoVremena
+Poslovne aplikacije,V,Mijatovic Igor,101,Tuesday,11:15,Raf04 (u),13:00
+Uvod u programiranje,D,Brnabic Mateja,101,Monday,13:15,Rg07 (u),15:00
+Uvod u programiranje,V,Tomic Milan,101,Tuesday,13:15,Raf02 (u),15:00
+Diskretne strukture,V,Jeremic Adrijana,"101, 102, 103",Tuesday,17:15,Raf21 (a),20:00
+Diskretne strukture,P,Jovanovic Irena,"101, 102, 103",Wednesday,16:15,Raf06 (a),18:00
+Engleski 1,P,Cuk Bojana,"101, 102, 103",Tuesday,15:15,Raf21 (a),17:00
+Linearna algebra i analiticka geometrija,P,Jovanovic Jelena,"101, 102, 103",Wednesday,18:15,Raf20 (a),21:00
+Linearna algebra i analiticka geometrija,V,Jovanovic Jelena,"101, 102, 103",Thursday,18:15,Raf20 (a),21:00
+Uvod u programiranje,P,Urosevic Dragan,"101, 102, 103",Monday,11:15,Kolarac2,13:00
+Poslovne aplikacije,V,Mijatovic Igor,102,Monday,13:15,Raf04 (u),15:00
+Uvod u programiranje,D,Brnabic Mateja,102,Monday,15:15,Rg07 (u),17:00
+Uvod u programiranje,V,Tomic Milan,102,Thursday,15:15,Raf04 (u),17:00
+Poslovne aplikacije,V,Mijatovic Igor,103,Thursday,13:15,Raf04 (u),15:00
+Uvod u programiranje,D,Matovic Vanja,103,Thursday,15:15,Raf07 (u),17:00
+Uvod u programiranje,V,Tomic Milan,103,Monday,14:15,Raf07 (u),16:00
+Poslovne aplikacije,V,Mijatovic Igor,104,Monday,15:15,Raf04 (u),17:00
+Uvod u programiranje,D,Matovic Vanja,104,Wednesday,10:15,Raf05 (u),12:00
+Uvod u programiranje,V,Jovanovic Mladen,104,Wednesday,12:15,Raf05 (u),14:00
+Linearna algebra i analiticka geometrija,P,Gardasevic Filipovic Milanka,"104, 105",Wednesday,16:15,Kolarac3,19:00
+Diskretne strukture,P,Jovanovic Irena,"104, 105, 106",Tuesday,15:15,Raf20 (a),17:00
+Diskretne strukture,V,Jeremic Adrijana,"104, 105, 106",Friday,18:15,Raf20 (a),21:00
+Uvod u programiranje,P,Mladenovic Marko,"104, 105, 106",Thursday,13:15,Raf21 (a),15:00
+Linearna algebra i analiticka geometrija,V,Jerotijevic Marija,"104, 107, 112",Tuesday,17:15,Kolarac3,20:00
+Engleski 1,P,Cuk Bojana,"104, 112",Monday,17:15,Raf11 (a),19:00
+Poslovne aplikacije,V,Mijatovic Igor,105,Thursday,11:15,Raf04 (u),13:00
+Uvod u programiranje,D,Stojanovic Mihajlo,105,Tuesday,18:15,Raf02 (u),20:00
+Uvod u programiranje,V,Jovanovic Mladen,105,Tuesday,13:15,Rg07 (u),15:00
+Linearna algebra i analiticka geometrija,V,Jerotijevic Marija,"105, 106",Friday,15:15,Raf20 (a),18:00
+Poslovne aplikacije,V,Mijatovic Igor,106,Wednesday,13:15,Raf04 (u),15:00
+Uvod u programiranje,D,Stojanovic Mihajlo,106,Thursday,15:15,Rg02 (u),17:00
+Uvod u programiranje,V,Jovanovic Mladen,106,Wednesday,10:15,Raf07 (u),12:00
+Engleski 1,P,Cuk Bojana,"106, 107",Tuesday,13:15,Kolarac3,15:00
+Linearna algebra i analiticka geometrija,P,Gardasevic Filipovic Milanka,"106, 108",Monday,17:15,Raf20 (a),20:00
+Poslovne aplikacije,V,Mijatovic Igor,107,Monday,11:15,Raf04 (u),13:00
+Uvod u programiranje,D,Dejanovic Lazar,107,Friday,18:15,Raf04 (u),20:00
+Uvod u programiranje,V,Najdic Jefimija,107,Monday,09:15,Raf05 (u),11:00
+Diskretne strukture,P,Jovanovic Irena,"107, 108, 109",Wednesday,13:15,Raf21 (a),15:00
+Diskretne strukture,V,Jeremic Adrijana,"107, 108, 109",Friday,15:15,Raf21 (a),18:00
+Uvod u programiranje,P,Mladenovic Marko,"107, 108, 109",Thursday,16:15,Raf20 (a),18:00
+Linearna algebra i analiticka geometrija,P,Gardasevic Filipovic Milanka,"107, 109, 110",Thursday,13:15,Raf20 (a),16:00
+Poslovne aplikacije,V,Mijatovic Igor,108,Tuesday,13:15,Raf04 (u),15:00
+Uvod u programiranje,D,Dejanovic Lazar,108,Thursday,18:15,Raf07 (u),20:00
+Uvod u programiranje,V,Najdic Jefimija,108,Tuesday,11:15,Rg07 (u),13:00
+Engleski 1,P,Cuk Bojana,"108, 109",Friday,10:15,Raf21 (a),12:00
+Linearna algebra i analiticka geometrija,V,Jerotijevic Marija,"108, 109",Friday,12:15,Raf21 (a),15:00
+Poslovne aplikacije,V,Mijatovic Igor,109,Wednesday,11:15,Raf04 (u),13:00
+Uvod u programiranje,D,Arsenovic Arsen,109,Tuesday,17:15,Raf03 (u),19:00
+Uvod u programiranje,V,Redzic Nikola Jovan,109,Tuesday,19:15,Raf03 (u),21:00
+Poslovne aplikacije,V,Mijatovic Igor,110,Tuesday,15:15,Raf04 (u),17:00
+Uvod u programiranje,D,Radenkovic Zarko,110,Monday,19:15,Raf03 (u),21:00
+Uvod u programiranje,V,Redzic Nikola Jovan,110,Wednesday,13:15,Rg07 (u),15:00
+Engleski 1,P,Cuk Bojana,"110, 111",Tuesday,17:15,Raf06 (a),19:00
+Diskretne strukture,P,Jovanovic Irena,"110, 111, 112, 113",Tuesday,13:15,Raf21 (a),15:00
+Diskretne strukture,V,Jeremic Adrijana,"110, 111, 112, 113",Monday,12:15,Kolarac3,15:00
+Uvod u programiranje,P,Mladenovic Marko,"110, 111, 112, 113",Wednesday,19:15,Raf21 (a),21:00
+Linearna algebra i analiticka geometrija,V,Jerotijevic Marija,"110, 111, 113",Monday,15:15,Raf21 (a),18:00
+Poslovne aplikacije,V,Mijatovic Igor,111,Monday,09:15,Raf04 (u),11:00
+Uvod u programiranje,D,Radenkovic Zarko,111,Thursday,17:15,Raf01 (u),19:00
+Uvod u programiranje,V,Najdic Jefimija,111,Thursday,13:15,Rg07 (u),15:00
+Linearna algebra i analiticka geometrija,P,Gardasevic Filipovic Milanka,"111, 112, 113",Friday,14:15,Kolarac3,17:00
+Poslovne aplikacije,V,Mijatovic Igor,112,Wednesday,15:15,Raf04 (u),17:00
+Uvod u programiranje,D,Arsenovic Arsen,112,Tuesday,15:15,Raf03 (u),17:00
+Uvod u programiranje,V,Redzic Nikola Jovan,112,Thursday,11:15,Raf07 (u),13:00
+Poslovne aplikacije,V,Mijatovic Igor,113,Tuesday,09:15,Raf04 (u),11:00
+Uvod u programiranje,D,Radenkovic Zarko,113,Friday,12:15,Rg07 (u),14:00
+Uvod u programiranje,V,Najdic Jefimija,113,Wednesday,17:15,Raf03 (u),19:00
+Engleski 1,P,Cuk Bojana,"113, 105",Monday,19:15,Raf21 (a),21:00
+Crtanje i slikanje,P,Malesevic Nenad,1d1,Thursday,15:15,Raf12 (MD),18:00
+Crtanje i slikanje,V,Stojanovic Visnja,1d1,Wednesday,14:15,Raf12 (MD),17:00
+Osnovi oblikovanja,V,Jeremic Lana,"1d1, 1d2",Monday,14:15,Raf14 (MD),17:00
+Osnovi projektovanja,V,Stojanovic Visnja,"1d1, 1d2",Friday,09:15,Raf14 (MD),12:00
+Engleski 1,P,Cuk Bojana,"1d1, 1d2, 1d3, 1d4",Friday,12:15,Kolarac3,14:00
+Uvod u muzicku produkciju,PiV,Medic Ivana,"1d1, 1d2, 1d3, 1d4",Wednesday,09:15,Raf20 (a),11:00
+Osnovi oblikovanja,P,Malesevic Nenad,"1d1, 1d3",Tuesday,15:15,Raf15 (MD),18:00
+Osnovi projektovanja,P,Telarovic Rosana,"1d1, 1d3",Monday,11:15,Raf15 (MD),14:00
+Crtanje i slikanje,P,Malesevic Nenad,1d2,Monday,09:15,Raf12 (MD),12:00
+Crtanje i slikanje,V,Stojanovic Visnja,1d2,Wednesday,11:15,Raf12 (MD),14:00
+Osnovi oblikovanja,P,Malesevic Nenad,"1d2, 1d4",Thursday,12:15,Raf15 (MD),15:00
+Osnovi projektovanja,P,Telarovic Rosana,"1d2, 1d4",Tuesday,09:15,Raf15 (MD),12:00
+Crtanje i slikanje,P,Malesevic Nenad,"1d3, 1d4",Thursday,09:15,Raf12 (MD),12:00
+Crtanje i slikanje,V,Stojanovic Visnja,"1d3, 1d4",Tuesday,12:15,Raf12 (MD),15:00
+Osnovi oblikovanja,V,Jeremic Lana,"1d3, 1d4",Monday,17:15,Raf16 (MD),20:00
+Osnovi projektovanja,V,Stojanovic Visnja,"1d4, 1d3",Monday,14:15,Raf16 (MD),17:00
+Administracija i odrzavanje sistema 1,PiV,Lale Sinisa,1s1,Friday,09:15,Raf03 (u),12:00
+Administracija i odrzavanje sistema 1,PiV,Lale Sinisa,1s1,Friday,12:15,Raf03 (u),15:00
+Organizacija racunara,V,Vasiljkovic Sanja,1s1,Wednesday,19:15,Raf01 (u),21:00
+Osnovi programiranja,V,Zgonjanin Nikola,1s1,Monday,09:15,Raf01 (u),12:00
+Praktikum iz arhitekture racunara i operativnih sistema,V,Radulovic Natasa,1s1,Thursday,13:15,Raf05 (u),15:00
+Engleski 1,P,Vrbica-Matejic Vera,"1s1, 1s2",Tuesday,17:15,Raf11 (a),19:00
+Organizacija racunara,P,Mirkovic Bogdan,"1s1, 1s2",Wednesday,14:15,Raf11 (a),17:00
+Osnovi programiranja,P,Mirkovic Bogdan,"1s1, 1s2",Wednesday,17:15,Raf11 (a),19:00
+Administracija i odrzavanje sistema 1,PiV,Lale Sinisa,1s2,Thursday,09:15,Raf03 (u),12:00
+Administracija i odrzavanje sistema 1,PiV,Lale Sinisa,1s2,Thursday,12:15,Raf03 (u),15:00
+Organizacija racunara,V,Vasiljkovic Sanja,1s2,Tuesday,19:15,Raf04 (u),21:00
+Osnovi programiranja,V,Zgonjanin Nikola,1s2,Friday,11:15,Raf02 (u),14:00
+Praktikum iz arhitekture racunara i operativnih sistema,V,Radulovic Natasa,1s2,Friday,09:15,Raf01 (u),11:00
+Administracija i odrzavanje sistema 1,PiV,Kostadinovic Miodrag,1s3,Monday,12:15,Raf02 (u),15:00
+Administracija i odrzavanje sistema 1,PiV,Kostadinovic Miodrag,1s3,Tuesday,10:15,Raf02 (u),13:00
+Organizacija racunara,V,Radulovic Natasa,1s3,Wednesday,13:15,Raf03 (u),15:00
+Osnovi programiranja,V,Sijacic Dusan,1s3,Thursday,16:15,Rg06 (u),19:00
+Praktikum iz arhitekture racunara i operativnih sistema,V,Radulovic Natasa,1s3,Wednesday,16:15,Raf02 (u),18:00
+Engleski 1,P,Vrbica-Matejic Vera,"1s3, 1s4",Monday,09:15,Raf20 (a),11:00
+Organizacija racunara,P,Mirkovic Bogdan,"1s3, 1s4",Tuesday,13:15,Raf10 (a),16:00
+Osnovi programiranja,P,Mirkovic Bogdan,"1s3, 1s4",Tuesday,16:15,Raf10 (a),18:00
+Administracija i odrzavanje sistema 1,PiV,Kostadinovic Miodrag,1s4,Thursday,13:15,Raf02 (u),16:00
+Administracija i odrzavanje sistema 1,PiV,Kostadinovic Miodrag,1s4,Wednesday,11:15,Raf02 (u),14:00
+Organizacija racunara,V,Radulovic Natasa,1s4,Thursday,16:15,Rg01 (u),18:00
+Osnovi programiranja,V,Sijacic Dusan,1s4,Monday,13:15,Rg06 (u),16:00
+Praktikum iz arhitekture racunara i operativnih sistema,V,Radulovic Natasa,1s4,Thursday,18:15,Rg01 (u),20:00
+Algoritmi i strukture podataka,V,Jevtic Ivan,201,Tuesday,17:15,Raf04 (u),19:00
+Dizajn softvera,V,Andzic Dimitrije,201,Tuesday,14:15,Raf01 (u),17:00
+Inteligentni sistemi,V,Ciganovic Igor,201,Tuesday,11:15,Raf07 (u),14:00
+Algoritmi i strukture podataka,P,Urosevic Dragan,"201, 202, 203",Thursday,11:15,Kolarac3,14:00
+Dizajn softvera,P,Rakocevic Goran,"201, 202, 203",Thursday,09:15,Kolarac3,11:00
+Inteligentni sistemi,P,Vasiljevic Jelena,"201, 202, 203",Monday,15:15,Kolarac3,18:00
+Napredna matematicka analiza,P,Gardasevic Filipovic Milanka,"201, 202, 203, 204, 205",Wednesday,11:15,Raf21 (a),13:00
+Napredna matematicka analiza,V,Gardasevic Filipovic Milanka,"201, 202, 203, 204, 205",Wednesday,13:15,Kolarac2,15:00
+Algoritmi i strukture podataka,V,Trajkovic Mihailo,202,Wednesday,17:15,Raf04 (u),19:00
+Dizajn softvera,V,Andzic Dimitrije,202,Friday,18:15,Raf02 (u),21:00
+Inteligentni sistemi,V,Ciganovic Igor,202,Friday,14:15,Raf07 (u),17:00
+Algoritmi i strukture podataka,V,Trajkovic Mihailo,203,Tuesday,17:15,Rg04 (u),19:00
+Dizajn softvera,V,Andzic Dimitrije,203,Friday,15:15,Raf04 (u),18:00
+Inteligentni sistemi,V,Ciganovic Igor,203,Friday,11:15,Raf01 (u),14:00
+Algoritmi i strukture podataka,V,Jevtic Ivan,204,Wednesday,18:15,Raf02 (u),20:00
+Dizajn softvera,V,Jovanoski Mihail,204,Tuesday,09:15,Raf03 (u),12:00
+Inteligentni sistemi,V,Tomic Milan,204,Thursday,17:15,Raf04 (u),20:00
+Algoritmi i strukture podataka,P,Urosevic Dragan,"204, 205, 206",Wednesday,15:15,Raf20 (a),18:00
+Dizajn softvera,P,Rakocevic Goran,"204, 205, 206",Thursday,14:15,Kolarac1,16:00
+Inteligentni sistemi,P,Vasiljevic Jelena,"204, 205, 206",Thursday,11:15,Kolarac1,14:00
+Algoritmi i strukture podataka,V,Prokic Aleksa,205,Friday,10:15,Rg07 (u),12:00
+Dizajn softvera,V,Jovanoski Mihail,205,Wednesday,18:15,Rg02 (u),21:00
+Inteligentni sistemi,V,Tomic Milan,205,Friday,14:15,Rg07 (u),17:00
+Algoritmi i strukture podataka,V,Prokic Aleksa,206,Wednesday,13:15,Raf01 (u),15:00
+Dizajn softvera,V,Jovanoski Mihail,206,Friday,09:15,Raf04 (u),12:00
+Inteligentni sistemi,V,Tomic Milan,206,Monday,11:15,Raf07 (u),14:00
+Napredna matematicka analiza,P,Gardasevic Filipovic Milanka,"206, 223",Tuesday,09:15,Kolarac3,11:00
+Napredna matematicka analiza,V,Gardasevic Filipovic Milanka,"206, 223",Tuesday,11:15,Kolarac3,13:00
+Algoritmi i strukture podataka,V,Jevtic Ivan,221,Tuesday,19:15,Rg02 (u),21:00
+Signali i sistemi,V,Sandic-Stankovic Dragana,221,Monday,17:15,Rg01 (u),20:00
+Napredna matematicka analiza,P,Gardasevic Filipovic Milanka,"221, 222",Monday,15:15,Kolarac2,17:00
+Napredna matematicka analiza,V,Gardasevic Filipovic Milanka,"221, 222",Thursday,09:15,Kolarac1,11:00
+Osnovi elektronike,V,Markovic Petar,"221, 222",Thursday,14:15,Raf11 (a),17:00
+Algoritmi i strukture podataka,P,Mladenovic Marko,"221, 222, 223",Wednesday,16:15,Raf21 (a),19:00
+Osnovi elektronike,P,Karbunar Lazar,"221, 222, 223",Monday,13:15,Raf21 (a),15:00
+Signali i sistemi,P,Babic Djorde,"221, 222, 223",Wednesday,13:15,Kolarac3,16:00
+Algoritmi i strukture podataka,V,Trajkovic Mihailo,222,Monday,19:15,Raf05 (u),21:00
+Signali i sistemi,V,Sandic-Stankovic Dragana,222,Thursday,17:15,Raf02 (u),20:00
+Algoritmi i strukture podataka,V,Prokic Aleksa,223,Tuesday,17:15,Rg02 (u),19:00
+Osnovi elektronike,V,Markovic Petar,223,Tuesday,14:15,Raf06 (a),17:00
+Signali i sistemi,V,Radulovic Natasa,223,Monday,17:15,Raf04 (u),20:00
+Fotografija,V,Topuzovic Filip,2d1,Friday,11:15,Raf13 (MD),13:00
+Fotografija,P,Malesevic Nenad,"2d1, 2d2, 2d3",Tuesday,09:15,Raf13 (MD),12:00
+Pismo i tipografija,P,Stojanovic Danica,"2d1, 2d2, 2d3, 2d4",Tuesday,12:15,Raf14 (MD),14:00
+Pismo i tipografija,V,Stojanovic Danica,"2d1, 2d2, 2d3, 2d4",Wednesday,12:15,Raf14 (MD),15:00
+Modelovanje,P,Kukic  Rastko,"2d1, 2d2, 2d3, 2d4",Monday,09:15,Raf14 (MD),12:00
+Modelovanje,V,Jonic Teodora,"2d1, 2d2, 2d3, 2d4",Wednesday,09:15,Raf14 (MD),11:00
+Istorija umetnosti,PiV,Stankovic Maja,"2d1, 2d2, 2d3, 2d4, 2d5, 2d6",Thursday,14:15,Raf10 (a),16:00
+Istorija umetnosti,PiV,Stankovic Maja,"2d1, 2d2, 2d3, 2d4, 2d5, 2d6",Thursday,16:15,Raf10 (a),18:00
+Fotografija,V,Jeremic Lana,2d2,Friday,15:15,Raf13 (MD),17:00
+Fotografija,V,Jeremic Lana,2d3,Wednesday,15:15,Raf13 (MD),17:00
+Fotografija,V,Topuzovic Filip,2d4,Friday,09:15,Raf13 (MD),11:00
+Fotografija,P,Malesevic Nenad,"2d4, 2d5, 2d6",Monday,12:15,Raf13 (MD),15:00
+Fotografija,V,Topuzovic Filip,2d5,Wednesday,09:15,Raf13 (MD),11:00
+Pismo i tipografija,P,Stojanovic Danica,"2d5, 2d6",Friday,16:15,Raf16 (MD),18:00
+Pismo i tipografija,V,Stojanovic Danica,"2d5, 2d6",Wednesday,15:15,Raf16 (MD),18:00
+Modelovanje,P,Kukic  Rastko,"2d5, 2d6",Wednesday,11:15,Raf16 (MD),14:00
+Modelovanje,V,Jonic Teodora,"2d5, 2d6",Thursday,19:15,Raf16 (MD),21:00
+Fotografija,V,Jeremic Lana,2d6,Friday,13:15,Raf13 (MD),15:00
+Dizajn i razvoj veb strana,V,Sijacic Dusan,2s1,Friday,11:15,Raf07 (u),14:00
+Informacioni sistemi,V,Prvulovic Petar,2s1,Monday,15:15,Raf01 (u),18:00
+Veb sistemi i tehnologije,P,Radosavljevic Nemanja,2s1,Wednesday,10:15,Raf03 (u),13:00
+Veb sistemi i tehnologije,V,Sijacic Dusan,2s1,Friday,09:15,Raf07 (u),11:00
+Dizajn i razvoj veb strana,P,Popovic Snezana,"2s1, 2s2, 2s3a, 2s3b",Wednesday,13:15,Raf20 (a),15:00
+Informacioni sistemi,P,Mirkovic Bogdan,"2s1, 2s2, 2s3a, 2s3b",Tuesday,18:15,Raf20 (a),21:00
+Engleski 3,PiV,Vrbica-Matejic Vera,"2s1, 2s3a",Friday,14:15,Raf10 (a),16:00
+Engleski 3,PiV,Vrbica-Matejic Vera,"2s1, 2s3a",Monday,11:15,Raf20 (a),13:00
+Dizajn i razvoj veb strana,V,Sijacic Dusan,2s2,Tuesday,15:15,Raf02 (u),18:00
+Informacioni sistemi,V,Prvulovic Petar,2s2,Monday,09:15,Raf02 (u),12:00
+Veb sistemi i tehnologije,P,Radosavljevic Nemanja,2s2,Thursday,10:15,Raf05 (u),13:00
+Veb sistemi i tehnologije,V,Sijacic Dusan,2s2,Wednesday,15:15,Raf03 (u),17:00
+Engleski 3,PiV,Vrbica-Matejic Vera,"2s2, 2s3b",Tuesday,13:15,Raf20 (a),15:00
+Engleski 3,PiV,Vrbica-Matejic Vera,"2s2, 2s3b",Monday,13:15,Raf20 (a),15:00
+Dizajn i razvoj veb strana,V,Lazarevic Vukadin,"2s3a, 2s3b",Monday,18:15,Raf02 (u),21:00
+Informacioni sistemi,V,Lazarevic Vukadin,"2s3a, 2s3b",Monday,15:15,Raf02 (u),18:00
+Veb sistemi i tehnologije,P,Radosavljevic Nemanja,"2s3a, 2s3b",Wednesday,15:15,Rg07 (u),18:00
+Veb sistemi i tehnologije,V,Lazarevic Vukadin,"2s3a, 2s3b",Wednesday,18:15,Rg01 (u),20:00
+Skript jezici,V,Ciganovic Igor,301a,Tuesday,14:15,Raf07 (u),16:00
+Testiranje softvera,P,Dimic Surla Bojana,"301a, 301b, 302a, 302b",Thursday,11:15,Raf20 (a),13:00
+Verovatnoca i statistika,P,Maric Nevena,"301a, 301b, 302a, 302b, 303, 304, 305",Friday,09:15,Raf20 (a),11:00
+Softverske komponente,P,Dimic Surla Bojana,"301a, 301b, 302a, 302b, 305, 306, 307a, 307b",Wednesday,16:15,Kolarac2,18:00
+Programski prevodioci,P,Vujosevic Dusan,"301a, 301b, 302a, 303, 302b",Tuesday,11:15,Raf20 (a),13:00
+Skript jezici,P,Radenkovic Milos,"301a, 301b, 304, 305, 306, 307a, 307b, 322, 323",Friday,11:15,Raf20 (a),13:00
+Programski prevodioci,V,Stojanovic Mihajlo,"301a, 302a",Thursday,09:15,Raf07 (u),11:00
+Softverske komponente,V,Najdic Jefimija,"301a, 302a",Tuesday,09:15,Raf07 (u),11:00
+Testiranje softvera,V,Ivkovic Sava,"301a, 302a",Wednesday,09:15,Raf04 (u),11:00
+Verovatnoca i statistika,V,Maric Nevena,"301a, 302a",Wednesday,14:15,Raf05 (u),16:00
+Skript jezici,V,Ciganovic Igor,301b,Wednesday,14:15,Raf02 (u),16:00
+Programski prevodioci,V,Stojanovic Mihajlo,"301b, 302b",Thursday,13:15,Raf01 (u),15:00
+Softverske komponente,V,Najdic Jefimija,"301b, 302b",Monday,11:15,Raf05 (u),13:00
+Testiranje softvera,V,Ivkovic Sava,"301b, 302b",Tuesday,09:15,Rg07 (u),11:00
+Verovatnoca i statistika,V,Maric Nevena,"301b, 302b",Wednesday,18:15,Raf05 (u),20:00
+Upravljanje informacijama,P,Radenkovic Milos,"302a, 302b, 307a, 307b",Tuesday,14:15,Raf09 (a),16:00
+Upravljanje informacijama,V,Stojanovic Mihajlo,"302a, 302b, 307a, 307b",Wednesday,11:15,Raf01 (u),13:00
+Geometrijski algoritmi,P,Urosevic Dragan,303,Thursday,14:15,Raf09 (a),16:00
+Geometrijski algoritmi,V,Urosevic Dragan,303,Thursday,16:15,Raf09 (a),18:00
+Paralelni algoritmi,P,Rakocevic Goran,"303, 304, 305",Friday,13:15,Raf20 (a),15:00
+Paralelni algoritmi,V,Jeremic Adrijana,"303, 304, 305",Thursday,19:15,Raf03 (u),21:00
+Racunarska grafika,P,Masulovic Dragan,"303, 306",Wednesday,11:15,Rg07 (u),13:00
+Racunarska grafika,V,Dotlic Emilija,"303, 306",Wednesday,09:15,Raf01 (u),11:00
+Skript jezici,V,Ciganovic Igor,"304, 305",Monday,13:15,Raf05 (u),15:00
+Programski prevodioci,P,Vujosevic Dusan,"304, 305, 306, 307a, 307b",Thursday,17:15,Raf21 (a),19:00
+Sistemi u realnom vremenu,P,Jovanovic Milos,"304, 323",Tuesday,17:15,Raf09 (a),19:00
+Sistemi u realnom vremenu,V,Jovanovic Milos,"304, 323",Monday,16:15,Raf07 (u),18:00
+Programski prevodioci,V,Stojanovic Mihajlo,305,Tuesday,12:15,Raf03 (u),14:00
+Verovatnoca i statistika,V,Maric Nevena,"305, 303, 307a",Tuesday,17:15,Rg01 (u),19:00
+Softverske komponente,V,Redzic Nikola Jovan,"305, 307a",Thursday,15:15,Raf01 (u),17:00
+Programski prevodioci,V,Stojanovic Mihajlo,"306, 303",Tuesday,15:15,Rg07 (u),17:00
+Verovatnoca i statistika,V,Maric Nevena,"306, 304, 307b",Thursday,15:15,Rg07 (u),17:00
+Skript jezici,V,Prvulovic Petar,"306, 307a",Thursday,09:15,Raf02 (u),11:00
+Verovatnoca i statistika,P,Maric Nevena,"306, 307a, 307b, 321, 322, 323",Thursday,11:15,Raf21 (a),13:00
+Softverske komponente,V,Redzic Nikola Jovan,"306, 307b",Tuesday,17:15,Raf05 (u),19:00
+Programski prevodioci,V,Stojanovic Mihajlo,"307a, 304, 307b",Wednesday,09:15,Raf02 (u),11:00
+Skript jezici,V,Prvulovic Petar,"307b, 323",Wednesday,13:15,Raf07 (u),15:00
+Povezivanje mreza,V,Milovic Njegovan,321,Monday,17:15,Raf05 (u),19:00
+Virtuelizovani mrezni sistemi,P,Bojovic Petar,321,Wednesday,14:15,Raf09 (a),16:00
+Virtuelizovani mrezni sistemi,V,Zivanovic Marko,321,Thursday,09:15,Rg07 (u),11:00
+Povezivanje mreza,P,Bojovic Petar,"321, 322",Monday,15:15,Raf11 (a),17:00
+Projektovanje racunarskih sistema,P,Radivojevic Mirjana,"321, 322",Wednesday,11:15,CET,13:00
+Primenjena vestacka inteligencija,P,Vasiljevic Jelena,"321, 322, 323",Thursday,14:15,Kolarac3,16:00
+Verovatnoca i statistika,V,Maric Nevena,"321, 323",Wednesday,16:15,Raf05 (u),18:00
+Primenjena vestacka inteligencija,V,Tomic Milan,"321, 323",Tuesday,15:15,Raf05 (u),17:00
+Skript jezici,V,Ciganovic Igor,322,Wednesday,16:15,Rg01 (u),18:00
+Verovatnoca i statistika,V,Maric Nevena,322,Thursday,09:15,Raf04 (u),11:00
+Povezivanje mreza,V,Milovic Njegovan,322,Monday,19:15,Raf01 (u),21:00
+Primenjena vestacka inteligencija,V,Tomic Milan,322,Tuesday,17:15,Rg07 (u),19:00
+Projektovanje racunarskih sistema,V,Radivojevic Mirjana,"322, 321",Wednesday,09:15,CET,11:00
+Sistemsko programiranje,P,Jovanovic Milos,323,Monday,18:15,Raf10 (a),20:00
+Sistemsko programiranje,V,Jovanovic Milos,323,Wednesday,18:15,Rg07 (u),20:00
+Multimedijalni projekti 1,P,Kukic  Rastko,3d1a,Tuesday,09:15,Raf16 (MD),12:00
+Multimedijalni projekti 1,V,Jonic Teodora,3d1a,Thursday,16:15,Raf14 (MD),19:00
+Osnovi animacije,P,Djuric Milan,3d1a,Thursday,11:15,Raf13 (MD),13:00
+Dizajn i informacione tehnologije 1,P,Topuzovic Filip,"3d1a, 3d1b",Wednesday,11:15,Raf15 (MD),13:00
+Dizajn i informacione tehnologije 1,V,Topuzovic Filip,"3d1a, 3d1b",Thursday,13:15,Raf14 (MD),14:00
+Graficki projekti,P,Stojanovic Danica,"3d1a, 3d1b",Friday,12:15,Raf14 (MD),15:00
+Graficki projekti,V,Stojanovic Danica,"3d1a, 3d1b",Tuesday,15:15,Raf14 (MD),18:00
+Osnovi animacije,V,Koturanovic Aleksandar,"3d1a, 3d1b",Thursday,14:15,Raf14 (MD),16:00
+Multimedijalni projekti 1,P,Kukic  Rastko,3d1b,Tuesday,12:15,Raf16 (MD),15:00
+Multimedijalni projekti 1,V,Jonic Teodora,3d1b,Tuesday,18:15,Raf16 (MD),21:00
+Osnovi animacije,P,Djuric Milan,3d1b,Friday,18:15,Raf13 (MD),20:00
+IT servis menadzment,V,Pilipovic Dragoljub,3s1,Monday,15:15,Raf03 (u),16:00
+Konfiguracija i odrzavanje IP mreza,P,Bojovic Petar,3s1,Thursday,14:15,Raf06 (a),16:00
+Konfiguracija i odrzavanje IP mreza,V,Pernar Veljko,3s1,Monday,09:15,Raf07 (u),11:00
+Uvod u administraciju IP mreza,P,Bojovic Petar,3s1,Thursday,16:15,Raf06 (a),18:00
+Uvod u administraciju IP mreza,V,Zivanovic Marko,3s1,Tuesday,12:15,Raf01 (u),14:00
+Uvod u softversko inzenjerstvo,V,Prvulovic Petar,3s1,Monday,12:15,Raf01 (u),15:00
+IT servis menadzment,P,Pilipovic Dragoljub,"3s1, 3s2",Monday,16:15,Raf09 (a),18:00
+Uvod u softversko inzenjerstvo,P,Mladenovic Marko,"3s1, 3s2",Tuesday,15:15,Raf11 (a),17:00
+IT servis menadzment,V,Pilipovic Dragoljub,3s2,Monday,14:15,Raf03 (u),15:00
+Uvod u softversko inzenjerstvo,V,Prvulovic Petar,3s2,Wednesday,15:15,Raf07 (u),18:00
+C# programiranje,PiV,Milosavljevic Milos,3s2,Tuesday,09:15,Raf05 (u),12:00
+C# programiranje,PiV,Milosavljevic Milos,3s2,Tuesday,12:15,Raf05 (u),15:00
+SQL programiranje,PiV,Popovic Snezana,3s2,Thursday,18:15,Raf05 (u),21:00
+SQL programiranje,PiV,Popovic Snezana,3s2,Thursday,15:15,Raf05 (u),18:00
+Skladista podataka,P,Popovic Snezana,401,Wednesday,15:15,Raf08 (a),17:00
+Skladista podataka,V,Radenkovic Milos,401,Monday,09:15,Raf03 (u),11:00
+Veliki podaci,V,Najdic Jefimija,401,Thursday,15:15,Rg04 (u),17:00
+Kombinatorika i teorija grafova,P,Jovanovic Irena,"401, 402a, 402b, 403, 404, 405, 406",Wednesday,11:15,Kolarac3,13:00
+Kombinatorika i teorija grafova,V,Jeremic Adrijana,"401, 402a, 402b, 403, 404, 405, 406",Tuesday,15:15,Kolarac3,17:00
+Napredno veb programiranje,P,Vidakovic Milan,"401, 402a, 402b, 404, 405, 406, 422, 423",Monday,13:15,Kolarac2,15:00
+Upravljanje projektima,P,Vujosevic Dusan,"401, 402a, 402b, 405",Tuesday,13:15,Raf08 (a),15:00
+Veliki podaci,P,Radenkovic Milos,"401, 402a, 402b, 406, 423",Monday,11:15,Raf21 (a),13:00
+Upravljanje projektima,V,Jeremic Adrijana,"401, 404",Thursday,17:15,Raf03 (u),19:00
+Napredno veb programiranje,V,Redzic Nikola Jovan,"401, 405",Thursday,13:15,Raf07 (u),15:00
+Multimedijalni informacioni sistemi,P,Vujosevic Dusan,"402a, 402b, 404, 405",Wednesday,09:15,Kolarac2,11:00
+Multimedijalni informacioni sistemi,V,Topuzovic Filip,"402a, 404",Thursday,09:15,Raf14 (MD),11:00
+Upravljanje projektima,V,Jeremic Adrijana,"402a, 405",Thursday,15:15,Raf03 (u),17:00
+Veliki podaci,V,Najdic Jefimija,"402a, 406",Thursday,11:15,Raf02 (u),13:00
+Napredno veb programiranje,V,Antic Stefan,"402a, 406, 404",Friday,17:15,Raf05 (u),19:00
+Multimedijalni informacioni sistemi,V,Topuzovic Filip,"402b, 405",Thursday,11:15,Raf14 (MD),13:00
+Upravljanje projektima,V,Jeremic Adrijana,"402b, 406",Monday,17:15,Raf03 (u),19:00
+Napredno veb programiranje,V,Antic Stefan,"402b, 422, 423",Friday,19:15,Rg07 (u),21:00
+Veliki podaci,V,Najdic Jefimija,"402b, 423",Friday,16:15,Raf02 (u),18:00
+Kvantno racunarstvo,P,Radovanovic Aleksandar,403,Friday,15:15,Raf08 (a),17:00
+Kvantno racunarstvo,V,Matovic Vanja,403,Thursday,17:15,Rg02 (u),19:00
+Prepoznavanje govora,P,Stanojevic Mladen,403,Friday,17:15,Raf10 (a),19:00
+Prepoznavanje govora,V,Petrovic Relja,403,Wednesday,09:15,Rg07 (u),11:00
+Upravljanje projektima,P,Vujosevic Dusan,"403, 404, 421, 422, 423, 406",Thursday,15:15,Raf21 (a),17:00
+Duboko ucenje,P,Ilic Nemanja,"403, 405",Thursday,09:15,Raf21 (a),11:00
+Duboko ucenje,V,Bojic Milan,"403, 405",Monday,09:15,Rg07 (u),11:00
+Upravljanje projektima,V,Jeremic Adrijana,"403, 423",Friday,13:15,Raf05 (u),15:00
+Modelovanje i simulacija,P,Maric Nevena,"404, 406",Friday,12:15,Raf04 (u),14:00
+Modelovanje i simulacija,V,Maric Nevena,"404, 406",Friday,14:15,Raf01 (u),16:00
+Racunarske mreze velikih sistema,P,Radivojevic Mirjana,421,Friday,09:15,CET,11:00
+Racunarske mreze velikih sistema,V,Radivojevic Mirjana,421,Friday,11:15,CET,13:00
+Uvod u robotiku,P,Jovanovic Milos,421,Wednesday,16:15,Raf09 (a),18:00
+Uvod u robotiku,V,Jovanovic Milos,421,Thursday,17:15,Rg07 (u),19:00
+Upravljanje projektima,V,Jeremic Adrijana,"421, 422",Monday,15:15,Raf05 (u),17:00
+Data centar infrastruktura,P,Martic Goran,"421, 422",Tuesday,18:15,Raf10 (a),20:00
+Data centar infrastruktura,V,Preocanin Andjela,"421, 422",Tuesday,16:15,Raf07 (u),18:00
+Bezicne i mobilne komunikacije,P,Vukotic Selena,"421, 422, 423",Wednesday,18:15,Raf08 (a),21:00
+Mikroservisne aplikacije,P,Dimic Surla Bojana,"422, 423",Wednesday,14:15,Raf10 (a),16:00
+Mikroservisne aplikacije,V,Redzic Nikola Jovan,"422, 423",Wednesday,16:15,Raf01 (u),18:00
+Bezicne i mobilne komunikacije,V,Lukic Djordje,"422, 423, 421",Thursday,19:15,Raf06 (a),21:00
+Animirana grafika,P,Djuric Milan,4d1,Thursday,14:15,Raf16 (MD),17:00
+Animirana grafika,V,Koturanovic Aleksandar,4d1,Friday,13:15,Raf16 (MD),16:00
+Digitalna slika,P,Spasic Nikola,4d1,Monday,11:15,Raf16 (MD),14:00
+Digitalna slika,V,Stetin Darko,4d1,Wednesday,18:15,Raf16 (MD),21:00
+Uvod u 3D animaciju,P,Rubil Goran,4d1,Friday,10:15,Raf16 (MD),12:00
+Uvod u 3D animaciju,V,Rubil Goran,4d1,Monday,09:15,Raf16 (MD),11:00
+Poetika digitalne umetnosti,P,Stankovic Maja,"4d1, 4d3",Thursday,18:15,Raf15 (MD),21:00
+Poetika digitalne umetnosti,V,Malesevic Novak,"4d1, 4d3",Wednesday,15:15,Raf15 (MD),18:00
+Poetika fotografske umetnosti,V,Jeremic Lana,4d2,Thursday,14:15,Raf13 (MD),17:00
+Postprodukcija,P,Spasic Nikola,4d2,Monday,17:15,Raf14 (MD),20:00
+Postprodukcija,V,Stetin Darko,4d2,Wednesday,15:15,Raf14 (MD),18:00
+Animirana grafika,P,Djuric Milan,"4d2, 4d3",Friday,15:15,Raf14 (MD),18:00
+Animirana grafika,V,Koturanovic Aleksandar,"4d2, 4d3",Friday,18:15,Raf14 (MD),21:00
+Uvod u 3D animaciju,P,Rubil Goran,"4d2, 4d3",Wednesday,18:15,Raf14 (MD),20:00
+Uvod u 3D animaciju,V,Rubil Goran,"4d2, 4d3",Tuesday,09:15,Raf14 (MD),11:00
+Poetika fotografske umetnosti,P,Malesevic Nenad,"4d2, 4d3",Tuesday,12:15,Raf13 (MD),15:00
+Poetika fotografske umetnosti,V,Jeremic Lana,4d3,Wednesday,12:15,Raf13 (MD),15:00
+MFC,P,ZZ RG,MFC,Monday,18:15,Raf07 (u),21:00
+MFC,P,ZZ RG,MFC,Tuesday,18:15,Raf07 (u),21:00
+MFC,P,ZZ RG,MFC,Wednesday,18:15,Raf07 (u),21:00
+MFC,P,ZZ RG,MFC,Friday,18:15,Raf07 (u),21:00
+Kombinatorika i teorija grafova,P,Mladenovic Marko,Ponovci,Tuesday,17:15,Raf08 (a),19:00
+Kombinatorika i teorija grafova,V,Mladenovic Marko,Ponovci,Thursday,18:15,Raf10 (a),20:00
+ZZ RG 01,P,ZZ RG,RG,Monday,09:15,Rg01 (u),16:00
+ZZ RG 01,P,ZZ RG,RG,Tuesday,09:15,Rg01 (u),16:00
+ZZ RG 01,P,ZZ RG,RG,Wednesday,09:15,Rg01 (u),16:00
+ZZ RG 01,P,ZZ RG,RG,Thursday,09:15,Rg01 (u),16:00
+ZZ RG 01,P,ZZ RG,RG,Friday,09:15,Rg01 (u),16:00
+ZZ RG02,P,ZZ RG,RG,Monday,09:15,Rg02 (u),16:00
+ZZ RG02,P,ZZ RG,RG,Tuesday,09:15,Rg02 (u),16:00
+ZZ RG02,P,ZZ RG,RG,Wednesday,09:15,Rg02 (u),16:00
+ZZ RG02,P,ZZ RG,RG,Thursday,09:15,Rg02 (u),15:00
+ZZ RG02,P,ZZ RG,RG,Friday,09:15,Rg02 (u),16:00
+ZZ RG 06,P,ZZ RG,RG,Monday,09:15,Rg06 (u),13:00
+ZZ RG 06,P,ZZ RG,RG,Tuesday,09:15,Rg06 (u),16:00
+ZZ RG 06,P,ZZ RG,RG,Wednesday,09:15,Rg06 (u),16:00
+ZZ RG 06,P,ZZ RG,RG,Thursday,09:15,Rg06 (u),16:00
+ZZ RG 06,P,ZZ RG,RG,Friday,09:15,Rg06 (u),16:00
+ZZ RAF 6,P,ZZ RG,RG,Monday,09:15,Raf06 (a),16:00
+ZZ RAF 6,P,ZZ RG,RG,Tuesday,09:15,Raf06 (a),14:00
+ZZ RAF 6,P,ZZ RG,RG,Wednesday,09:15,Raf06 (a),16:00
+ZZ RAF 6,P,ZZ RG,RG,Thursday,09:15,Raf06 (a),14:00
+ZZ RAF 6,P,ZZ RG,RG,Friday,09:15,Raf06 (a),16:00
+ZZ K1,P,ZZ RG,RG,Monday,09:15,Kolarac1,19:00
+ZZ K1,P,ZZ RG,RG,Monday,19:15,Kolarac1,21:00
+ZZ K1,P,ZZ RG,RG,Tuesday,09:15,Kolarac1,19:00
+ZZ K1,P,ZZ RG,RG,Tuesday,19:15,Kolarac1,21:00
+ZZ K1,P,ZZ RG,RG,Wednesday,09:15,Kolarac1,19:00
+ZZ K1,P,ZZ RG,RG,Wednesday,19:15,Kolarac1,21:00
+ZZ K1,P,ZZ RG,RG,Thursday,18:15,Kolarac1,21:00
+ZZ K1,P,ZZ RG,RG,Friday,09:15,Kolarac1,19:00
+ZZ K1,P,ZZ RG,RG,Friday,19:15,Kolarac1,21:00
+ZZ K2,P,ZZ RG,RG,Monday,18:15,Kolarac2,21:00
+ZZ K2,P,ZZ RG,RG,Tuesday,09:15,Kolarac2,19:00
+ZZ K2,P,ZZ RG,RG,Tuesday,19:15,Kolarac2,21:00
+ZZ K2,P,ZZ RG,RG,Wednesday,18:15,Kolarac2,21:00
+ZZ K2,P,ZZ RG,RG,Thursday,09:15,Kolarac2,19:00
+ZZ K2,P,ZZ RG,RG,Thursday,19:15,Kolarac2,21:00
+ZZ K2,P,ZZ RG,RG,Friday,09:15,Kolarac2,19:00
+ZZ K2,P,ZZ RG,RG,Friday,19:15,Kolarac2,21:00
+ZZ K3,P,ZZ RG,RG,Monday,19:15,Kolarac3,21:00
+ZZ K3,P,ZZ RG,RG,Tuesday,20:15,Kolarac3,21:00
+ZZ K3,P,ZZ RG,RG,Wednesday,19:15,Kolarac3,21:00
+ZZ K3,P,ZZ RG,RG,Thursday,19:15,Kolarac3,21:00
+ZZ K3,P,ZZ RG,RG,Friday,19:15,Kolarac3,21:00
+ZZ Raf 11,P,ZZ RG,RG,Monday,09:15,Raf11 (a),14:00
+ZZ Raf 11,P,ZZ RG,RG,Tuesday,09:15,Raf11 (a),14:00
+ZZ Raf 11,P,ZZ RG,RG,Wednesday,09:15,Raf11 (a),14:00
+ZZ Raf 11,P,ZZ RG,RG,Thursday,09:15,Raf11 (a),14:00
+ZZ Raf 11,P,ZZ RG,RG,Friday,09:15,Raf11 (a),14:00
+ZZ Raf 10,P,ZZ RG,RG,Monday,09:15,Raf10 (a),14:00
+ZZ Raf 10,P,ZZ RG,RG,Tuesday,09:15,Raf10 (a),13:00
+ZZ Raf 10,P,ZZ RG,RG,Wednesday,09:15,Raf10 (a),14:00
+ZZ Raf 10,P,ZZ RG,RG,Thursday,09:15,Raf10 (a),14:00
+ZZ Raf 10,P,ZZ RG,RG,Friday,09:15,Raf10 (a),14:00
+ZZ Raf 08,P,ZZ RG,RG,Monday,09:15,Raf08 (a),15:00
+ZZ Raf 08,P,ZZ RG,RG,Tuesday,09:15,Raf08 (a),13:00
+ZZ Raf 08,P,ZZ RG,RG,Wednesday,09:15,Raf08 (a),15:00
+ZZ Raf 08,P,ZZ RG,RG,Thursday,09:15,Raf08 (a),15:00
+ZZ Raf 08,P,ZZ RG,RG,Friday,09:15,Raf08 (a),15:00
+ZZ Raf 19,P,ZZ RG,RG,Monday,09:15,Raf19 (a),14:00
+ZZ Raf 19,P,ZZ RG,RG,Tuesday,09:15,Raf19 (a),14:00
+ZZ Raf 19,P,ZZ RG,RG,Wednesday,09:15,Raf19 (a),14:00
+ZZ Raf 19,P,ZZ RG,RG,Thursday,09:15,Raf19 (a),14:00
+ZZ Raf 19,P,ZZ RG,RG,Friday,09:15,Raf19 (a),14:00
+ZZ RG 4,P,ZZ RG,RG,Monday,09:15,Rg04 (u),16:00
+ZZ RG 4,P,ZZ RG,RG,Tuesday,09:15,Rg04 (u),16:00
+ZZ RG 4,P,ZZ RG,RG,Wednesday,09:15,Rg04 (u),16:00
+ZZ RG 4,P,ZZ RG,RG,Thursday,09:15,Rg04 (u),15:00
+ZZ RG 4,P,ZZ RG,RG,Friday,09:15,Rg04 (u),16:00
+ZZ Raf 9,P,ZZ RG,RG,Monday,09:15,Raf09 (a),16:00
+ZZ Raf 9,P,ZZ RG,RG,Tuesday,8:15,Raf09 (a),14:00
+ZZ Raf 9,P,ZZ RG,RG,Wednesday,09:15,Raf09 (a),14:00
+ZZ Raf 9,P,ZZ RG,RG,Thursday,09:15,Raf09 (a),14:00
+ZZ Raf 9,P,ZZ RG,RG,Friday,09:15,Raf09 (a),16:00
+ZZ Raf 18,P,ZZ RG,RG,Monday,09:15,Raf18 (a),14:00
+ZZ Raf 18,P,ZZ RG,RG,Tuesday,09:15,Raf18 (a),14:00
+ZZ Raf 18,P,ZZ RG,RG,Wednesday,09:15,Raf18 (a),14:00
+ZZ Raf 18,P,ZZ RG,RG,Thursday,09:15,Raf18 (a),14:00
+ZZ Raf 18,P,ZZ RG,RG,Friday,09:15,Raf18 (a),14:00

@@ -1,0 +1,8 @@
+0 predmet subject
+1 tip type
+2 nastavnik person
+3 grupe group
+4 dan day
+5 termin termin
+6 ucionica ucionica
+7 DoVremena doVremena

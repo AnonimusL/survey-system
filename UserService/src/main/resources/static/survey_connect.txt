@@ -1,0 +1,2 @@
+person NASTAVNIK_SURVEY
+subject PREDMET_SURVEY

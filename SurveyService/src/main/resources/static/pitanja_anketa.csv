@@ -1,0 +1,54 @@
+id_pitanja,tekst,tip,format
+82,"﻿Izbor predmeta u programu studija za ovaj semestar",fakultet,ocena
+83,"Raspored nastave",fakultet,ocena
+84,Predavanja,fakultet,ocena
+85,Vežbe,fakultet,ocena
+86,"Računarska oprema",fakultet,ocena
+87,Učionice,fakultet,ocena
+88,"Nastavni materijali",fakultet,ocena
+89,"Usluge Studentske službe",fakultet,ocena
+90,"Informisanje o svemu onome što te se kao studenta tiče",fakultet,ocena
+91,"Interni sajt",fakultet,ocena
+92,"Mogućnosti za praksu",fakultet,ocena
+93,"Rad Studentskog parlamenta",fakultet,ocena
+94,"Studiranje u celini",fakultet,ocena
+95,"Komentari u vezi sa prethodno izraženim ocenama:",fakultet,tekst
+96,"Dolazim na nastavu:",fakultet,"retko ili nikad|povremeno ili delimično|redovno ili gotovo uvek"
+97,Učim:,fakultet,"malo|umereno i koliko stignem|intenzivno"
+98,"Dosadašnja prosečna ocena:",fakultet,"6-7,5|7,51-8,5|8,51-10"
+99,"Trenutno radim pored studiranja:",fakultet,"ne|praksa / povremen rad / nepotpuno radno vreme|puno radno vreme"
+100,"Kojim atributima opisuješ svoje studiranje?<br><br>
+dosadno",fakultet,da|ne
+101,stresno,fakultet,da|ne
+102,haotično,fakultet,da|ne
+103,prezahtevno,fakultet,da|ne
+104,zabavno,fakultet,da|ne
+105,efikasno,fakultet,da|ne
+106,perspektivno,fakultet,da|ne
+107,savremeno,fakultet,da|ne
+108,vrhunsko,fakultet,da|ne
+109,"Smatram da je, u odnosu na prethodnu Anketu, kvalitet nastave:",fakultet,"pogoršan|isti|poboljšan|ne znam"
+110,"Ostale kritike, sugestije i pohvale:",fakultet,tekst
+111,"Zadovoljan sam što sam imao ovaj predmet.",predmet,ocena
+112,"Imao sam potrebna predznanja da pratim predmet ovako kako je bio koncipiran.",predmet,ocena
+113,"Zadovoljan sam nastavnim jedinicama obrađenim u okviru predmeta.",predmet,ocena
+114,"Čini mi se da je ovako koncipiran predmet značajan za moj profesionalni razvoj.",predmet,ocena
+115,"Čini mi se da je gradivo neposredno primenjivo u praksi.",predmet,ocena
+116,"Čini mi se da je nastava pratila aktuelne trendove iz date oblasti.",predmet,ocena
+117,"Zadovoljan sam koordinacijom predavanja, vežbi i ostalih aktivnosti.",predmet,ocena
+118,"Zadovoljan sam softverom koji se koristio.",predmet,ocena
+119,"Bili su mi obezbeđeni adekvatni materijali za učenje.",predmet,ocena
+120,"Jasno mi je šta treba da se spremi da bi se položio ispit.",predmet,ocena
+121,"Količina novog gradiva na predmetu je:",predmet,nedovoljna|adekvatna|preterana
+122,"Predispitne i ispitne obaveze deluju mi:",predmet,neozbiljno|odmereno|prezahtevno
+123,"Želeo bih da predložim uvođenje sledećeg novog gradiva:",predmet,tekst
+124,"Predlažem redukovanje sledećih nastavnih jedinica:",predmet,tekst
+125,"Ostale kritike, pohvale i sugestije:",predmet,tekst
+126,"Držao je nastavu iz ovog predmeta razumljivo i sistematično, tako da sam ga bez problema pratio.",nastavnik,ocena
+127,"Ukazivao je na mogućnosti praktične primene gradiva.",nastavnik,ocena
+128,"Ukazivao je na pravce mogućeg daljeg usavršavanja u datoj oblasti.",nastavnik,ocena
+129,"Poštovao je satnicu časova.",nastavnik,ocena
+130,"Podsticao je dolazak na konsultacije.",nastavnik,ocena
+131,"Pristupačan je za studentska pitanja i komentare.",nastavnik,ocena
+132,"Čini mi se da je objektivan u ocenjivanju.",nastavnik,ocena
+133,"Kritike, sugestije i pohvale:",nastavnik,tekst
