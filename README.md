@@ -30,12 +30,6 @@ cd survey-service
 docker build -t survey-service .
 cd ..
 ```
-### Service 3 - Target User Service
-```bash
-cd target-survey-service
-docker build -t target-survey-service .
-cd ..
-```
 ## Step 3: Start Docker Compose
 ```bash
 docker-compose up -d
