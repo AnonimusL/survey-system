@@ -1,0 +1,83 @@
+form {
+    width: 50%;
+    margin: 20px auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  #dropdown{
+    text-align: center;
+  }
+  
+  input[type="text"],
+  textarea,
+  select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+  }
+  
+  input[type="submit"] {
+    background-color: #5BC0EC;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #1AA1DB;
+  }
+  
+  div.radio-option {
+    margin-bottom: 10px;
+  }
+  
+  div.radio-option input[type="radio"] {
+    margin-right: 5px;
+  }
+
+  .slider-labels {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+  }
+  
+  .slider-label {
+    font-size: 12px;
+    color: #666;
+  }
+
+  .label-container {
+    display: flex;
+    align-items: center;
+    margin: 0;
+  }
+
+  .label-container span {
+    flex: 0 0 30%  
+
+  }
+
+  .label-container .lbl-input {
+    flex: 0 0 70%  
+  }
+
+  .small-input {
+    width: 50px;
+    margin-left: 10px;
+  }

@@ -1,0 +1,33 @@
+<nav class="sidebar">
+    <div class="options">
+      <ul>
+        <li><a href="#"><i class="fas fa-home"></i>Home</a></li>
+        <li [ngClass]="{'up': submenus['surveys']}">
+          <a class="sub" href="javascript:void(0);" (click)="toggleSubmenu('surveys')"><i class="fas fa-poll"></i>Surveys
+            <span [ngClass]="{'fas fa-caret-up': submenus['surveys'], 'fa fa-caret-down': !submenus['surveys']}"></span>
+        </a>
+          <ul [ngClass]="{ 'show': submenus['surveys'] }" [ngClass]="{ 'none': !submenus['surveys'] }">
+            <li><a [routerLink]="['survey/my-surveys']">My Surveys</a></li>
+            <li><a [routerLink]="['survey/all-surveys']">All Surveys</a></li>
+          </ul>
+        </li>
+        <li><a href="#"><i class="fas fa-file-code"></i>Templates</a></li>
+        <li [ngClass]="{'up': submenus['reports']}">
+          <a class="sub" href="javascript:void(0);" (click)="toggleSubmenu('reports')"><i class="fas fa-chart-pie"></i>Reports
+            <span [ngClass]="{'fas fa-caret-up': submenus['reports'], 'fa fa-caret-down': !submenus['reports']}"></span>
+          </a>
+          <ul [ngClass]="{ 'show': submenus['reports'] }" [ngClass]="{ 'none': !submenus['reports'] }">
+            <li><a href="#"><i class="">My Reports</i></a></li>
+            <li><a href="#"><i class="">All Reports</i></a></li>
+          </ul>
+        </li>
+        <li><a [routerLink]="['users']"><i class="fas fa-user"></i>Users</a></li>
+        <li><a href="#"><i class="fas fa-cog"></i>Settings</a></li>
+      </ul>
+    </div>
+    <div class="social_media">
+      <a href="#"><i class="fab fa-facebook-f"></i></a>
+      <a href="#"><i class="fab fa-twitter"></i></a>
+      <a href="#"><i class="fab fa-instagram"></i></a>
+    </div>
+</nav>  

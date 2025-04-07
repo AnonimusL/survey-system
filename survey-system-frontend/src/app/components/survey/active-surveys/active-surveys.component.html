@@ -1,0 +1,6 @@
+<div>
+  <h2>List of Surveys</h2>
+  <div *ngFor="let survey of surveys">
+    <button (click)="select(survey.id)">{{ survey.surveyTitle }}</button>
+  </div>
+</div>

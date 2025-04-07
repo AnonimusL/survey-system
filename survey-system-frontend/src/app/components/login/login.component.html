@@ -1,0 +1,23 @@
+<div class="container">
+    <h3>Sign In to Survey System</h3>
+    <form [formGroup]="loginForm" (ngSubmit)="onSubmit()">
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input type="text" id="email" formControlName="email">
+        </div>
+        <div class="form-group">
+            <label for="password">Password:</label>
+            <input type="password" id="password" formControlName="password">
+            <a href="#" class="forgot-password">Forgot Password?</a>
+        </div>
+        <div class="form-group">
+            <button type="submit" [disabled]="loginForm.invalid">Sign in</button>
+        </div>
+    </form>
+
+    <h6 class="or-divider">or</h6>
+    <div class="sign-in-google">
+        <asl-google-signin-button></asl-google-signin-button>
+        <span class="button-text">Sign in with Google</span>
+    </div>
+</div>

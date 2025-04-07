@@ -1,0 +1,55 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+.button-left,
+.button-right,
+.button-middle {
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    flex: 0 0 33%;
+    background-color: #5BC0EC;
+}
+
+.button-left {
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+
+.button-middle::before,
+.button-middle::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 1px;
+    background-color: white;
+}
+
+.button-middle::before {
+    left: 0;
+}
+
+.button-middle::after {
+    right: 0;
+}
+
+.button-right {
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+}
+
+/* Add hover effect */
+.button-left:hover,
+.button-middle:hover,
+.button-right:hover {
+    background-color: #1aa1dbc9;
+}
+
+.selected {
+    background-color: #1AA1DB;
+}

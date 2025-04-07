@@ -1,0 +1,138 @@
+.file-dialog {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 400px;      
+    height: 400px;  
+    margin: 0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #ffffff;
+    overflow: hidden;
+  }
+  
+  .file-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 4px dotted gray;
+    width: 100%;
+    height: 150px;     
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: #f8f9fa;
+    position: relative;
+  }
+  
+  .upload-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: gray;
+    pointer-events: none;
+  }
+  
+  .upload-icon i {
+    font-size: 48px;
+    margin-bottom: 10px;
+  }
+  
+  .upload-icon p {
+    font-size: 16px;
+    color: gray;
+  }
+  
+  .file {
+    opacity: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    cursor: pointer;
+  }
+  
+  .file-label {
+    color: #5BC0EC;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  
+  .file-label:hover {
+    color: #1AA1DB;
+  }
+  
+  .file-list-wrapper {
+    width: 100%;
+    height: 100px;      
+    overflow-y: auto; 
+    overflow-x: hidden; 
+    background-color: #92D5F2;
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .file-item {
+    display: grid;
+    grid-template-columns: 1fr 30px; 
+    align-items: center;
+    padding: 5px 0;
+    word-wrap: break-word;
+    gap: 10px; 
+  }
+
+  .file-name {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    max-width: 100%;
+  }
+  
+  .delete-file {
+    background: none;
+    border: none;
+    color: #2c3332;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .delete-file:hover {
+    font-weight: bold;
+  }
+  
+  .dialog-button {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .button {
+    border: none;
+    padding: 10px 20px;
+    color: white;
+    cursor: pointer;
+    border-radius: 10px;
+    margin: 10px;
+  }
+  
+  .btn-upload {
+    background-color: #5BC0EC;
+  }
+  
+  .btn-upload:hover {
+    background-color: #1AA1DB;
+  }
+  
+  .btn-close-dialog {
+    background-color: rgb(151, 145, 145);
+  }
+  
+  .btn-close-dialog:hover {
+    background-color: grey;
+  }
+  

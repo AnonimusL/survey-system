@@ -1,0 +1,22 @@
+<div class="node-container">
+  <li *ngFor="let node of nodes">
+    <div (click)="onFolderClick(node)" [ngClass]="{'folder-row': clickedFolder === node.id, 'not-folder-row': clickedFolder != node.id}">
+      <div class="node" [ngStyle]="{'padding-left.px': calculatePadding(node.level)}">
+        <span class="fas" 
+          [ngClass]="{'fa-caret-right': !activation[node.id].active, 'fa-caret-down': activation[node.id].active}">
+        </span>
+        <span class="fas fa-folder item-text">{{ node.title }}</span>
+      </div>
+    </div>
+    <ul>
+      <li *ngIf="node.surveyId && activation[node.id].active" [ngStyle]="{'padding-left.px': calculatePadding(node.level-1)}">
+        <span (click)="onFileClick(node.surveyId)" class="fas fa-file item-text" [ngClass]="{'file-clicked': clickedFile === node.surveyId}">{{ node.title + "_" + "SURVEY" }}</span> 
+      </li>
+    </ul>
+    <ul class="nested" [ngClass]="{'open': activation[node.id].active}">
+      <div>
+        <app-tree-item *ngIf="node.children" [nodes]="node.children"></app-tree-item>
+      </div>
+    </ul>
+  </li>
+</div>

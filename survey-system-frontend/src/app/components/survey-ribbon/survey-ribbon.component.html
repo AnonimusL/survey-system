@@ -1,0 +1,6 @@
+<div class="button-container">
+    <button (click)="toggleSubmenu('general')" [ngClass]="{'selected': submenus['general']}" class="button-left">General</button>
+    <button (click)="toggleSubmenu('questions')" [ngClass]="{'selected': submenus['questions'] || submenus['newQuestion']}" class="button-middle">Questions</button>
+    <button (click)="toggleSubmenu('instances')" [ngClass]="{'selected': submenus['instances']}" class="button-middle">Instances</button>
+    <button (click)="toggleSubmenu('templates')" [ngClass]="{'selected': submenus['templates']}" class="button-right">Templates</button>
+  </div>

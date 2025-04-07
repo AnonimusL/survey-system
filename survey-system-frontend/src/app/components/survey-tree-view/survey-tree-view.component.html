@@ -1,0 +1,23 @@
+<div class="workspace-tree">
+<div class="search-bar">
+    <input type="text" class="search-input" placeholder="Search domain...">
+    <button class="search-button fas fa-search" ></button>
+  </div>
+<div class="workspace">
+    <div>My workspace</div>
+    <div class="domain"><div>Domain:</div><div class="chosen-domain">Education</div></div>
+    <div class="add-button">
+    <button class="circle-button" (click)="onAdd()">
+      <div class="plus">+</div>
+    </button>
+  </div>
+</div>
+<ul class="outer-ul">
+    <app-tree-item [nodes]="treeData"></app-tree-item>
+  </ul>
+  </div>
+ <div>
+  <div class="workspace-survey">
+  <div class="survey-list">
+  </div>
+</div>

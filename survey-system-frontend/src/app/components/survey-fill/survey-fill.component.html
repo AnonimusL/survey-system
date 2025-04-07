@@ -1,0 +1,26 @@
+<div class="container-fill">
+  <div class="content">
+    <div class="survey-form">
+      <div *ngFor="let question of questions" class="question">
+        <h5>Question {{ question.number }}</h5>
+        <p>{{ question.text }}</p>
+        <div *ngIf="question.type === 'GRADE'">
+          <!-- Display grade input or display grade value -->
+        </div>
+        <div *ngIf="question.type === 'MULTIPLE_CHOICE'">
+          <!-- Display radio buttons or display selected choice -->
+          <div *ngFor="let choice of question.choiceDtoList">
+            <label>
+              <input type="radio" [name]="'question_' + question.number" [value]="choice.text">
+              {{ choice.text }}
+            </label>
+          </div>
+        </div>
+        <div *ngIf="question.type === 'OPEN_ENDED'">
+          <!-- Display text area for open-ended question -->
+          <textarea></textarea>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,13 @@
+<div class="survey-container">
+    <div class="tree">
+        <app-survey-tree-view></app-survey-tree-view>
+    </div>
+    <div class="main-container">
+        <div *ngIf="activate" class="ribbon">
+            <survey-ribbon></survey-ribbon>
+        </div>
+            <div class="content" #contentContainer>
+                <ng-container #dynamicContent></ng-container>
+        </div>
+    </div>
+</div>

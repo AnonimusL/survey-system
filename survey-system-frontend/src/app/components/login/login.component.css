@@ -1,0 +1,93 @@
+.container {
+    width: 350px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+.container h3, h6{
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.form-group {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.form-group label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.form-group input[type="text"],
+.form-group input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+.form-group button[type="submit"] {
+    width: 100%;
+    padding: 10px;
+    background-color: #5BC0EB;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.form-group button[type="submit"]:hover {
+    background-color: #4fa2c5;
+}
+
+.forgot-password {
+    text-align: right;
+    font-size: 14px;
+    color: #4fa2c5;
+    text-decoration: none;
+    display: block;
+}
+
+.sign-in-google{
+    display: flex;
+    border-radius: 3px;
+    width: 100%;
+    padding: 8px;
+    text-align: center;
+    border: none;
+    align-items: center; 
+    justify-items: center;
+    justify-content: center;
+}
+
+.button-text {
+    display: inline-block;
+    margin-left: 8px;
+}
+
+.or-divider {
+    position: relative;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.or-divider::before,
+.or-divider::after {
+    content: "";
+    display: inline-block;
+    width: 40%;
+    height: 1px;
+    background-color: grey;
+    position: absolute;
+    top: 50%;
+}
+
+.or-divider::before {
+    left: 0;
+}
+
+.or-divider::after {
+    right: 0;
+}

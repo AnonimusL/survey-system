@@ -1,0 +1,43 @@
+<div class="questions">
+  <div class="button-container">
+    <div class="ribbon">
+      <button class="button-left" [ngClass]="{'selected': selectedOption === 'users'}" (click)="switch('users')">Users</button>
+      <button class="button-right" [ngClass]="{'selected': selectedOption === 'target'}" (click)="switch('target')">Target</button>
+    </div>
+  </div>
+  <div class="question-buttons">
+    <button class="upload-button" (click)="onUpload()">
+      <i class="fas fa-plus"></i> Upload
+    </button>
+  </div>
+  <div class="grid-table-container">
+    <div class="grid-table">
+      <div class="header">
+        <div class="header-cell">Num</div>
+        <div class="header-cell">Email</div>
+        <div class="header-cell">Username</div>
+        <div class="header-cell">Group</div>
+        <div class="header-cell">Actions</div>
+      </div>
+      <div class="row" *ngFor="let user of pageUsers; let i = index">
+        <div class="cell">{{ currentPageIndex * pageSize + i + 1 }}</div>
+        <div class="cell">{{ user.email }}</div>
+        <div class="cell">{{ user.username }}</div>
+        <div class="cell">{{ user.userGroup }}</div>
+        <div class="cell">
+          <button class="btn btn-sm"><i class="fas fa-search" (click)="showDetails(user.email)"></i></button>
+          <button class="btn btn-sm"><i class="fas fa-edit"></i></button>
+          <button class="btn btn-sm"><i class="fas fa-trash-alt"></i></button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Conditionally show paginator based on content -->
+  <app-paginator 
+    *ngIf="shouldShowPaginator"
+    [length]="users.length" 
+    [pageSize]="pageSize" 
+    [pageIndex]="currentPageIndex"
+    (pageChange)="changePage($event)">
+  </app-paginator>
+</div>

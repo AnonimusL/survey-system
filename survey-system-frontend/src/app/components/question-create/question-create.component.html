@@ -1,0 +1,37 @@
+<form (ngSubmit)="onSubmit()" #myForm="ngForm">
+    <label for="dropdown">Dropdown:</label>
+    <select id="dropdown" name="dropdown" ngModel>
+      <option value="option1">Option 1</option>
+      <option value="option2">Option 2</option>
+      <option value="option3">Option 3</option>
+    </select>
+    
+    <label for="textfield">Text Field:</label>
+    <input type="text" id="textfield" name="textfield" ngModel>
+    
+    <label for="textarea">Text Area:</label>
+    <textarea id="textarea" name="textarea" rows="4" cols="50" ngModel></textarea>
+    
+    <div class="label-container">
+      <label for="selectMultiple">Select Multiple Choices?</label>
+      <input type="checkbox" id="selectMultiple" name="selectMultiple" [(ngModel)]="selectMultiple">
+   </div>
+  <br>
+
+  <div class="label-container">
+    <label for="numberOfLabels">Number of Options:</label>
+    <input type="number" id="numberOfLabels" name="numberOfLabels" [(ngModel)]="numberOfLabels" class="small-input">
+  </div>
+
+  <div *ngIf="numberOfLabels != 0">
+    <label for="label">Options:</label>
+    <div class="label-container" *ngFor="let index of numberOfLabelsArray">
+      <span>Option {{index+1}}:</span>
+      <input class="lbl-input" type="text" id="label{{index}}" name="label{{index}}" [(ngModel)]="labels[index]">
+    </div>
+  </div>
+  
+    
+    <input type="submit" value="Submit">
+  </form>
+  

@@ -1,0 +1,54 @@
+  <div class="questions">
+  <div class="question-buttons">
+    <span class="fas fa-plus" (click)="newQuestion()">new</span>
+  </div>
+  <div class="question-header">
+    <div class="question-header-l">
+      <div class="c-div-1">Q. num</div>
+      <div class="c-div-2">Q. type</div>
+      <div class="c-div-3">Q. text</div>
+    </div>
+    <div class="question-header-r">
+      Actions
+    </div>
+  </div>
+  <div class="question-content">
+    <div *ngFor="let question of questions; let i = index">
+      <div>
+      <div class="card-header">
+        <div class="card-content">
+          <div class="c-div-1">
+            <div class="card-q-num">
+              <div>
+              {{ question.number }}
+            </div>
+            </div>
+          </div>
+          <div class="c-div-2">
+            <div class="card-type">
+              <div class="type-name">
+                <i class="fas fa-circle" [ngClass]="{'fas fa-circle': true, 'type-grade': question.type === 'GRADE', 'type-open-ended': question.type === 'OPEN_ENDED', 'type-choice': question.type === 'MULTIPLE_CHOICE'}"></i>
+                {{ question.type }}
+              </div>
+            </div>
+          </div>
+          <div class="c-div-3">
+            <div class="card-text">
+              {{ question.text }}
+            </div>
+          </div>
+      </div>
+        <div class="card-buttons">
+          <div class="buttons">
+            <button class="btn btn-sm"><i class="fas fa-search"></i> </button>
+            <button class="btn btn-sm"><i class="fas fa-arrow-up"></i> </button>
+            <button class="btn btn-sm"><i class="fas fa-arrow-down"></i> </button>
+            <button class="btn btn-sm"><i class="fas fa-edit"></i></button>
+            <button class="btn btn-sm"><i class="fas fa-trash-alt"></i></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+  

@@ -1,0 +1,71 @@
+.node-container{
+    width: 100%;
+}
+
+.fa {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li ul.nested .file {
+    cursor: pointer;
+}
+
+li {
+    cursor: pointer;
+    width: 100%;
+}
+
+.folder-row {
+    background-color: #4c5c5a;
+    width: 100%;
+}
+
+.not-folder-row {
+    background-color:transparent;
+    width: 100%;
+}
+
+.node {
+    width: 100%;
+    padding-left: 10px;
+}
+
+.fa-file{
+    color: #EC7505;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.file-clicked{
+    text-decoration: underline;
+}
+
+.fa-folder{
+    color: #5BC0EB;
+    font-size: 16px;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+.fa-caret-right,
+.fa-caret-down{
+    color: white;
+    display: inline-block;
+    margin-right: 5%;
+    cursor: pointer;
+}
+
+.nested {
+    width:100%;
+    display: none;
+}
+
+.nested.open{
+    display: block;
+    width: 100%;
+    padding: 0;
+}
+
+.item-text{
+    font-size: 13px;
+}

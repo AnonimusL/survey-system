@@ -1,0 +1,77 @@
+<div class="instances">
+  <div class="buttons-up">
+    <div class="additional-content">
+      <div class="grid-container">
+        <!-- Row 1: From Date and From Time -->
+        <div class="grid-item">
+          <label>From</label>
+          <div class="input-container">
+            <mat-form-field>
+              <input matInput [matDatepicker]="fromDatePicker" placeholder="Choose a date" [value]="fromDate">
+              <mat-datepicker-toggle matSuffix [for]="fromDatePicker"></mat-datepicker-toggle>
+              <mat-datepicker #fromDatePicker startView="year" [startAt]="fromDate"></mat-datepicker>
+            </mat-form-field>
+          </div>
+          <div class="input-container">
+            <mat-icon class="clickable-icon" (click)="fromTimePicker.open()">schedule</mat-icon> <!-- Clock icon -->
+            <span class="time-text">{{ fromTime }}</span>
+            <ngx-material-timepicker #fromTimePicker (timeSet)="onFromTimeChange($event)"></ngx-material-timepicker>
+          </div>
+        </div>
+        
+        <!-- Row 2: To Date and To Time -->
+        <div class="grid-item">
+          <label>To</label>
+          <div class="input-container">
+            <mat-form-field>
+              <input matInput [matDatepicker]="toDatePicker" placeholder="Choose a date" [value]="toDate">
+              <mat-datepicker-toggle matSuffix [for]="toDatePicker"></mat-datepicker-toggle>
+              <mat-datepicker #toDatePicker startView="year" [startAt]="toDate"></mat-datepicker>
+            </mat-form-field>
+          </div>
+          <div class="input-container">
+            <mat-icon class="clickable-icon" (click)="toTimePicker.open()">schedule</mat-icon> <!-- Clock icon -->
+            <span class="time-text">{{ toTime }}</span>
+            <ngx-material-timepicker #toTimePicker (timeSet)="onToTimeChange($event)"></ngx-material-timepicker>
+          </div>
+        </div>        
+      </div>
+
+      <div class="button-wrapper">
+        <button class="btn" [class.selected]="selectedAll" (click)="selectAll()">Select all</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="grid-table-container">
+    <div class="grid-table">
+      <div class="header">
+        <div class="header-cell">Num</div>
+        <div class="header-cell">Connector</div>
+        <div class="header-cell">Activate From</div>
+        <div class="header-cell">Activate To</div>
+        <div class="header-cell">Selected</div>
+        <div class="header-cell">Details</div>
+      </div>
+      <div class="row" *ngFor="let instance of pageInstances; let i = index">
+        <div class="cell">{{ currentPageIndex * pageSize + i + 1 }}</div>
+        <div class="cell">{{ instance.connector }}</div>
+        <div class="cell">{{ instance.from }}</div>
+        <div class="cell">{{ instance.to }}</div>
+        <div class="cell">{{ instance.selected }}</div>
+        <div class="cell">
+          <button class="btn btn-sm"><i class="fas fa-search" (click)="showDetails(instance.connector)"></i></button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Conditionally show paginator based on content -->
+  <app-paginator 
+    *ngIf="shouldShowPaginator"
+    [length]="instances.length" 
+    [pageSize]="pageSize" 
+    [pageIndex]="currentPageIndex"
+    (pageChange)="changePage($event)">
+  </app-paginator>
+</div>

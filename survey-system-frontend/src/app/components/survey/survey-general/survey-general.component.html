@@ -1,0 +1,26 @@
+ 
+    <div class="general-container">
+      <img class="logo" src="/assets/logos/raf-logo.png" alt="Company Logo">
+      <div class="main-title">{{survey.title}}</div>
+      <div class="company-info">
+        <p><strong>Organization Name:</strong> {{organization.name}}</p>
+        <p><strong>Address:</strong> {{organization.addressDto.street}}, {{organization.addressDto.number}}, {{organization.addressDto.city}}, {{organization.addressDto.country}}</p>
+        <p><strong>Contact:</strong> {{organization.phoneNumber}}</p>
+      </div>
+  
+      <div class="title">About Our Organization</div>
+      <div class="description">
+        {{organization.about}}
+      </div>
+  
+      <div class="title">{{survey.title}}</div>
+      <div class="description">
+        {{survey.description}}
+      </div>
+      <div class="company-info">
+        <p><strong>Number of Questions:</strong> [Number]</p>
+        <p><strong>Estimated Time:</strong> [Time Estimate]</p>
+      </div>
+    </div>
+
+  

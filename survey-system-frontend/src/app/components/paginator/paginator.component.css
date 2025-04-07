@@ -1,0 +1,34 @@
+.paginator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(145, 145, 145)
+  }
+  
+  .page-numbers {
+    display: flex;
+  }
+  
+  .page-numbers span {
+    margin: 0 5px; 
+    cursor: pointer;
+  }
+  
+  button {
+    border: none;
+    background: none;
+    font-size: 18px;
+    cursor: pointer;
+    color: white;
+  }
+  
+  span.active {
+    color: #5BC0EB; 
+    font-weight: bold; 
+    font-size: 17px;
+  }
+
+  .move {
+    color: #5BC0EB;
+  }
+  

@@ -1,0 +1,11 @@
+<div class="paginator">
+    <button (click)="goToFirstPage()">&#8810;</button>
+    <button *ngIf="pageIndex !== 0" (click)="previousPage()" class="move">&#60;</button>
+    <div class="page-numbers">
+      <span *ngFor="let pageNumber of getDisplayedPages()" 
+            (click)="goToPage(pageNumber)" 
+            [class.active]="pageNumber === pageIndex">{{pageNumber + 1}}</span>
+    </div>
+    <button *ngIf="pageIndex !== (length / pageSize - 1)" (click)="nextPage()" class="move">&#62;</button>
+    <button (click)="goToLastPage()">&#8811;</button>
+  </div>
